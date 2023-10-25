@@ -1,6 +1,5 @@
 # Android 客製化view練習(LevelProgress)
 
-[Github](https://github.com/CiaShangLin/LevelProgress/tree/master)<br>
 [參考來源:ClockSlider](https://github.com/a1573595/ClockSlider)
 
 練習使用view去客製化UI

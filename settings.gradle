@@ -16,3 +16,4 @@ rootProject.name = "ShangCustomViewPractice"
 include ':app'
 include ':levelrecyclerview'
 include ':levelprogress'
+include ':downloadprogress'

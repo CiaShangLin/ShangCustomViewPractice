@@ -2,7 +2,6 @@
 
 練習使用view去客製化UI
 
-https://github.com/CiaShangLin/ShangCustomViewPractice/blob/main/downloadprogress/image/download_progress.gif?raw=true
 ## 練習客製化下載進度條
 #### DEMO GIF
 [![GIF](https://github.com/CiaShangLin/ShangCustomViewPractice/blob/main/downloadprogress/image/download_progress.gif "GIF")](https://github.com/CiaShangLin/ShangCustomViewPractice/blob/main/downloadprogress/image/download_progress.gif "GIF")

@@ -16,4 +16,4 @@
 | -------- | -------- |
 | ![](https://github.com/CiaShangLin/ShangCustomViewPractice/blob/main/levelprogress/image/LV3.png)    | ![](https://github.com/CiaShangLin/ShangCustomViewPractice/blob/main/levelprogress/image/LV5.png)    |
 | ![](https://github.com/CiaShangLin/ShangCustomViewPractice/blob/main/levelprogress/image/LV7.png)| ![](https://github.com/CiaShangLin/ShangCustomViewPractice/blob/main/levelprogress/image/LV9.png)|
-| ![](https://github.com/CiaShangLin/ShangCustomViewPractice/blob/main/levelprogress/image/LV10.png) | |
+| ![](https://github.com/CiaShangLin/ShangCustomViewPractice/blob/main/levelprogress/image/LV10.png) | ![](https://github.com/CiaShangLin/ShangCustomViewPractice/blob/main/levelprogress/image/LevelProgress.gif)|

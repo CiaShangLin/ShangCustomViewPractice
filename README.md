@@ -8,7 +8,7 @@
 ## LevelProgress
 [LevelProgress](https://github.com/CiaShangLin/ShangCustomViewPractice/tree/main/levelprogress "LevelProgress")
 
-[![GIF](https://github.com/CiaShangLin/ShangCustomViewPractice/blob/main/levelprogress/image/download_progress.gif "GIF")](https://github.com/CiaShangLin/ShangCustomViewPractice/blob/main/levelprogress/image/download_progress.gif "GIF")
+[![GIF](https://github.com/CiaShangLin/ShangCustomViewPractice/blob/main/levelprogress/image/LevelProgress.gif "GIF")](https://github.com/CiaShangLin/ShangCustomViewPractice/blob/main/levelprogress/image/download_progress.gif "GIF")
 
 
 ## LevelRecyclerView

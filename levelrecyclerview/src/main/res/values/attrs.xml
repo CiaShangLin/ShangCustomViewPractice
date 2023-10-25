@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="LevelRecyclerView">
+        <attr name="dividerWidth" format="dimension"></attr>
+        <attr name="dividerHeight" format="dimension"></attr>
+        <attr name="divider" format="reference"></attr>
+        <attr name="maxFactor" format="float"></attr>
+    </declare-styleable>
+</resources>
